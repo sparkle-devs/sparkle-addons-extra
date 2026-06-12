@@ -119,8 +119,7 @@ return class extends Mod {
                 "Check a hello",
                 "hello",
                 api.world,
-                null,
-                {
+                null, {
                     "Hi": "hi",
                     "Hello": "hello",
                     "Sick": "sick",
